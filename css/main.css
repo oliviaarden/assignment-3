@@ -1,0 +1,102 @@
+html {
+  background-color: #2fd4c6;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 5rem;
+  font-style: italic;
+  font-family: 'Indie Flower', cursive;
+  line-height: 1;
+}
+
+ol {
+  list-style-type: none;
+  padding: 0;
+  line-height: 1.5;
+}
+
+li {
+  font-weight: normal;
+  font-size: 1rem;
+  font-style: normal;
+  font-family: 'Indie Flower', cursive;
+  line-height: 1;
+}
+
+a {
+  text-decoration: none;
+  color: purple;
+}
+
+a:hover {
+  color: white
+  ;
+}
+
+h2 {
+
+  font-weight: normal;
+  font-size: 2.5rem;
+  font-style: italic;
+  font-family: 'Indie Flower', cursive;
+  line-height: 1;
+}
+
+em {
+  font-style: italic;
+  font-weight: bold;
+}
+
+strong {
+  color: white;
+}
+
+blockquote {
+  font-weight: normal;
+  font-size: 2rem;
+  font-style: italic;
+  font-family: arial, sans-serif;
+}
+
+.dude {
+  font-weight: normal;
+  font-size: 0.9rem;
+  font-style: italic;
+  font-family: arial, sans-serif;
+  line-height: 1;
+  color: darkblue;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  line-height: 1.5;
+}
+
+li {
+  font-weight: normal;
+  font-size: 1rem;
+  font-style: normal;
+  font-family: 'Indie Flower', cursive;
+  line-height: 1;
+  color: purple;
+}
+
+figcaption {
+  font-weight: normal;
+  font-size: 1rem;
+  font-style: italic;
+  font-family: 'Indie Flower', cursive;
+  line-height: 1;
+}
+
+dt {
+  font-weight: bold;
+  font-size: 1.2rem;
+  font-style: normal;
+  font-family: 'Indie Flower', cursive;
+  line-height: 1;
+  color: purple;
+}
